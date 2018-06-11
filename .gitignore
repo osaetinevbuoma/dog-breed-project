@@ -9,3 +9,5 @@ lfw.zip
 mmod_human_face_detector.dat.bz2
 __MACOSX/
 data/
+*.zip
+*.html
